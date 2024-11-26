@@ -1,0 +1,9 @@
+{
+  "API_BASE_URL": "api-base-endpoint",
+  "API_USERNAME": "fowley",
+  "GOOGLE_API_KEY_PATH": "path/to/your-service-account-key.json",
+  "GOOGLE_SPREADSHEET_ID": "your-spreadsheet-id",
+  "GOOGLE_SPREADSHEET_NAME": "Sheet1",
+  "GOOGLE_SPREADSHEET_START_CELL": ["A", "1"],
+  "USERS_PER_REQUEST": 3
+}
